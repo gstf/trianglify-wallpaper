@@ -1,0 +1,26 @@
+{
+  "name": "trianglify-wallpaper",
+  "version": "0.1.0",
+  "description": "CLI to generate wallpapers from Trianglify",
+  "main": "trianglify-wallpaper.js",
+  "dependencies": {
+    "trianglify": "~0.1.1",
+    "svg2png": "~1.0.1",
+    "tmp": "0.0.23",
+    "optimist": "~0.6.1",
+    "nomnom": "~1.6.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gstf/wallpapers"
+  },
+  "author": "",
+  "license": "GPLv3",
+  "bugs": {
+    "url": "https://github.com/gstf/wallpapers/issues"
+  }
+}
